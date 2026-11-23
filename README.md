@@ -15,5 +15,3 @@ TinyCC（TCC - Tiny C Compiler）を、SHARP の電子辞書 Brain
 
 - GNU Lesser General Public License（LGPL）version 2.1 以降の条件で
   配布します。全文は同梱の `COPYING` を参照してください。
-- brain AI 本体のソースコードは公開していません。このリポジトリは
-  同梱している C コンパイラ（TinyCC）のソースコードだけを公開するものです。
